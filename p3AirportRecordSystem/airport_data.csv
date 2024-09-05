@@ -1,0 +1,136 @@
+Name,Region,Country,Code,Alt,Type,Type code
+Belfast International Airport,NI,UK,BFs,268,commercial,1
+St Angelo Airport,NI,UK,ENK,155,commercial,1
+George Best Belfast City Airport,NI,UK,BHDX,15,commercial,1
+City of Derry Airport,NI,UK,LDY,22,commercial,1
+Birmingham International Airport,ENG,UK,BHX,327,commercial,1
+Coventry Airport,ENG,UK,CVT,267,commercial,1
+Leicester Airport,ENG,UK,LEI,469,commercial,1
+Gloucestershire Airport,ENG,UK,GLO,101,commercial,1
+Wolverhampton Halfpenny Green Airport,ENG,UK,WOV,283,commercial,1
+Cotswold Airport,ENG,UK,GBA,433,commercial,1
+Turweston Airport,ENG,UK,TUR,448,commercial,1
+Wellesbourne Mountford Airport,ENG,UK,WLX,159,commercial,1
+Manchester Airport,ENG,UK,MAN,257,commercial,1
+Manchester Woodford Airport,ENG,UK,MAX,295,commercial,1
+Royal Marines Base Chivenor Airport,ENG,UK,CHI,27,military,2
+Newquay Cornwall Airport,WALES,UK,NQY,390,commercial,1
+RAF Lyneham,ENG,UK,LYE,513,military,2
+MoD Boscombe Down Airport,ENG,UK,BOX,407,military,2
+MoD St. Athan,ENG,UK,ATH,163,military,2
+Cardiff International Airport,WALES,UK,CWL,220,commercial,1
+Swansea Airport,WALES,UK,SWS,299,commercial,1
+Bristol Airport,ENG,UK,BRS,622,commercial,1
+Liverpool John Lennon Airport,ENG,UK,LPL,80,commercial,1
+London Luton Airport,ENG,UK,LTN,526,commercial,1
+Plymouth City Airport,ENG,UK,PLH,476,commercial,1
+Bournemouth Airport,ENG,UK,BOH,38,commercial,1
+Southampton Airport,ENG,UK,SOU,44,commercial,1
+Lasham Airport,ENG,UK,QLA,618,commercial,1
+Shoreham Airport,ENG,UK,ESH,7,commercial,1
+London Biggin Hill Airport,ENG,UK,BQH,598,commercial,1
+London Gatwick Airport,ENG,UK,LGW,202,commercial,1
+London City Airport,ENG,UK,LCY,19,commercial,1
+Farnborough Airport,ENG,UK,FAB,238,military,2
+Blackbushe Airport,ENG,UK,BBS,325,commercial,1
+London Heathrow Airport,ENG,UK,LHR,83,commercial,1
+Southend Airport,ENG,UK,SEN,49,commercial,1
+Lydd Airport,ENG,UK,LYX,13,commercial,1
+Kent International Airport,ENG,UK,MSE,178,commercial,1
+Carlisle Airport,ENG,UK,CAX,190,commercial,1
+Blackpool International Airport,ENG,UK,BLK,34,commercial,1
+Humberside Airport,ENG,UK,HUY,121,commercial,1
+Barrow Walney Island Airport,ENG,UK,BWF,173,commercial,1
+Leeds Bradford Airport,ENG,UK,LBA,681,commercial,1
+Warton Airport,ENG,UK,WRT,55,commercial,1
+Hawarden Airport,ENG,UK,CEG,45,commercial,1
+Newcastle Airport,ENG,UK,NCL,266,commercial,1
+Durham Tees Valley Airport,ENG,UK,MME,120,commercial,1
+East Midlands Airport,ENG,UK,EMA,306,commercial,1
+RAF Ternhill,ENG,UK,TEX,272,military,2
+RAF Shawbury,ENG,UK,SHX,249,military,2
+RAF Woodvale,ENG,UK,WOX,37,military,2
+Kirkwall Airport,ENG,UK,KOI,50,commercial,1
+Sumburgh Airport,ENG,UK,LSI,20,commercial,1
+Wick Airport,SCOTLAND,UK,WIC,126,commercial,1
+Aberdeen Dyce Airport,SCOTLAND,UK,ABZ,215,commercial,1
+Inverness Airport,SCOTLAND,UK,INV,31,commercial,1
+Glasgow International Airport,SCOTLAND,UK,Gla,26,commercial,1
+Edinburgh Airport,SCOTLAND,UK,EDI,135,commercial,1
+Islay Airport,SCOTLAND,UK,ILY,56,commercial,1
+Glasgow Prestwick Airport,SCOTLAND,UK,PIK,65,commercial,1
+Benbecula Airport,SCOTLAND,UK,BEB,19,commercial,1
+Scatsta Airport,SCOTLAND,UK,SCS,81,commercial,1
+Dundee Airport,SCOTLAND,UK,DND,17,commercial,1
+Stornoway Airport,SCOTLAND,UK,SYY,26,commercial,1
+Tiree Airport,SCOTLAND,UK,TRE,38,commercial,1
+RAF Leuchars,SCOTLAND,UK,ADX,38,military,2
+RAF Lossiemouth,SCOTLAND,UK,LMO,42,military,2
+Cambridge Airport,ENG,UK,CBG,47,commercial,1
+Norwich International Airport,ENG,UK,NWI,117,commercial,1
+London Stansted Airport,ENG,UK,STN,348,commercial,1
+Exeter International Airport,ENG,UK,EXT,102,commercial,1
+Bristol Filton Airport,ENG,UK,Fzo,226,commercial,1
+Oxford (Kidlington) Airport,ENG,UK,OXF,270,commercial,1
+RAF Benson,ENG,UK,BEX,226,military,2
+RAF Lakenheath,ENG,UK,LKZ,32,military,2
+RAF Mildenhall,ENG,UK,MHZ,33,military,2
+RAF Wyton,ENG,UK,QUY,135,military,2
+RAF Fairford,ENG,UK,FFD,286,military,2
+RAF Brize Norton,ENG,UK,BZZ,288,military,2
+RAF Odiham,ENG,UK,ODH,405,military,2
+RAF Northolt,ENG,UK,NHT,124,military,2
+RAF Coningsby,ENG,UK,QCY,25,military,2
+RAF Dishforth,ENG,UK,DIS,117,military,2
+Leeds East Airport,ENG,UK,LEX,29,commercial,1
+RAF Honington,ENG,UK,BeQ,174,military,2
+RAF Cottesmore,ENG,UK,COT,461,military,2
+RAF Scampton,ENG,UK,SQZ,202,military,2
+RAF Wittering,ENG,UK,WIC,273,military,2
+RAF Linton-On-Ouse,ENG,UK,HRT,53,military,2
+RAF Waddington,ENG,UK,WTN,231,military,2
+RAF Topcliffe,ENG,UK,TOC,92,military,2
+RAF Cranwell,ENG,UK,CRT,218,military,2
+RAF Barkston Heath,ENG,UK,BRX,367,military,2
+RAF Marham,ENG,UK,KNF,75,military,2
+Cork Airport,MUNSTER,IRE,ORK,502,commercial,1
+Galway Airport,CONNAUGHT,IRE,GWY,81,commercial,1
+Dublin Airport,LEINSTER,IRE,DuB,242,commercial,1
+Ireland West Knock Airport,CONNAUGHT,IRE,NOC,665,commercial,1
+Kerry Airport,MUNSTER,IRE,KIR,112,commercial,1
+Casement Air Base,LEINSTER,IRE,CAS,319,military,2
+Shannon Airport,MUNSTER,IRE,SNN,46,commercial,1
+Sligo Airport,CONNAUGHT,IRE,SXL,11,commercial,1
+Waterford Airport,MUNSTER,IRE,WAT,119,commercial,1
+St. Mary's Airport,ENG,UK,ISC,116,commercial,1
+Nottingham Airport,ENG,UK,NQT,138,commercial,1
+Robin Hood Doncaster Sheffield Airport,ENG,UK,DSA,55,commercial,1
+Campbeltown Airport,ENG,UK,CAL,42,commercial,1
+Eday Airport,ENG,UK,EOI,10,commercial,1
+Fair Isle Airport,ENG,UK,FIE,223,commercial,1
+North Ronaldsay Airport,ENG,UK,NRL,40,commercial,1
+Papa Westray Airport,ENG,UK,PPW,91,commercial,1
+Stronsay Airport,SCOTLAND,UK,SOY,39,commercial,1
+Sanday Airport,SCOTLAND,UK,NDY,68,commercial,1
+Lerwick / Tingwall Airport,SCOTLAND,UK,LWK,43,commercial,1
+Westray Airport,SCOTLAND,UK,WRY,29,commercial,1
+Land's End Airport,ENG,UK,LEQ,398,commercial,1
+Penzance Heliport,ENG,UK,PZH,14,commercial,1
+Anglesey Airport,WALES,UK,VLY,37,commercial,1
+Barra Airport,SCOTLAND,UK,BRR,5,commercial,1
+Weston Airport,LEINSTER,IRE,LEX,150,commercial,1
+Outer Skerries Airport,SCOTLAND,UK,OUK,76,commercial,1
+Inishmore Aerodrome,CONNAUGHT,IRE,IOR,24,commercial,1
+Connemara Regional Airport,CONNAUGHT,IRE,NNR,70,commercial,1
+Oban Airport,SCOTLAND,UK,OBN,20,commercial,1
+Inisheer Aerodrome,LEINSTER,IRE,INQ,40,commercial,1
+Inishmaan,CONNAUGHT,IRE,IIA,15,commercial,1
+Tresco Heliport,SCOTLAND,UK,TRH,20,commercial,1
+London Heliport,ENG,UK,LOH,18,commercial,1
+Wycombe Air Park,ENG,UK,HYC,515,commercial,1
+Bembridge Airport,ENG,UK,BBP,53,commercial,1
+Glasgow City Heliport,SCOTLAND,UK,GCH,0,commercial,1
+Perth/Scone Airport,SCOTLAND,UK,PSL,397,commercial,1
+Newcastle Aerodrome,ENG,IRE,NEH,1,commercial,1
+Bantry Aerodrome,MUNSTER,IRE,BYT,7,military,2
+Duxford Aerodrome,ENG,UK,QFO,125,military,2
